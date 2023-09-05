@@ -1,0 +1,59 @@
+body {
+background: #bcbebe;
+  
+}
+form {
+  border: 3px solid #dfdddd;
+  align-items: center;
+  padding-left: 30px ;
+  padding-right: 30px;
+  margin-left:250px;
+  margin-right:250px;
+  margin-top:100px;
+  background-color: rgb(182, 187, 182);
+}
+
+/* Full-width inputs */
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+.button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 10px 16px;
+  margin: 8px 0;
+  /* margin-left: 150px; */
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 1.0;
+}
+.button1{
+  background-color: #04AA6D;
+  color: white;
+  padding: 10px 16px;
+  margin: 8px 0;
+  cursor: pointer;
+  width: 50%;
+  text-decoration: none;
+} 
+.div {
+
+  padding: 7px 315px;
+  background-color: #04AA6D;
+  color: rgb(241, 238, 238);
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+ } 
