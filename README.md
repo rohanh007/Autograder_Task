@@ -1,6 +1,7 @@
-# Autograder_Task
+# Autos with Post-Redirect
 
-Create a web application, ensure that accessing the "views.php" page without prior authentication results in a failure accompanied by an error message, effectively preventing unauthorized access to sensitive information or functionality.
+The changes to index.php are new wording and pointing to view.php to test for login bypass.
+The basic functionality, password checking using salt and hashing, error logging, and data validation for the login.php 
 
 
 # Preview Task
